@@ -1,0 +1,2 @@
+*.hc linguist-language=c
+*.hc linguist-detectable
